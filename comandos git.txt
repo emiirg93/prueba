@@ -1,0 +1,26 @@
+- git init 
+crea un repositorio 
+
+- touch [nombre.extension] crea archivo.
+
+- git log (podes mirar los commit)
+
+- git checkout -b [nombre de la rama] (crea una nueva rama)
+
+- git checkout [nombre de la rama]
+
+unir las ramas
+
+git merge [nombre de la otra rama]
+
+Termino de hacer el proyecto
+Pasos para crear una rama:
+
+1- desde el master hago
+- git checkout -b [nombre de la rama] (crea una nueva rama)
+
+2- cargo la rama al repositorio remoto  
+git push --set-upstream origin [nombre de la rama]
+
+
+
