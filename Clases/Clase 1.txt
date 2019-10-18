@@ -1,0 +1,22 @@
+Clase 1 (10-15-2019)
+
+- instalacion JDK 8 - configuracion variables de entorno.
+
+- instalacion Gradle - configuracion variables de entorno.
+
+- instalacion del entorno de desarrollo Intelliji IDEA
+
+- creacion y importacion del proyecto usando Spring Initializr.
+
+- creacion de la clase Player con sus atributos-get-set.
+configuracion para creacion automatica de id.
+
+- creacion de la interface PlayerRepository.
+
+- hardcodeo de userNames en el Main.
+
+- modificacion del archivo build.gradle.
+
+bootRun - sourceResources sourceSets.main.
+
+- creacion del archivo manager.html / manager.js.
