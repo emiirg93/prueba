@@ -22,5 +22,8 @@ Pasos para crear una rama:
 2- cargo la rama al repositorio remoto  
 git push --set-upstream origin [nombre de la rama]
 
+Clonar una sola rama de un repositorio
+git clone [url del master] -b [nombre de la rama] -- single-branch
+git clone https://github.com/emiirg93/BatallaNaval_ITR.git -b Task_1 --single-branch
 
 
