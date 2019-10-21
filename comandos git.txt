@@ -26,5 +26,8 @@ Clonar una sola rama de un repositorio
 git clone [url del master] -b [nombre de la rama] -- single-branch
 git clone https://github.com/emiirg93/BatallaNaval_ITR.git -b Task_1 --single-branch
 
-eliminar una rama tanto local como del repositorio:
+eliminar una rama remota:
 git push origin --delete [nombre de la rama]
+
+eliminar una rama local:
+git branch -d [nombre de la rama]
