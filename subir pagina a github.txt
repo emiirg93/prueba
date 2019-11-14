@@ -1,0 +1,10 @@
+1- npm i -g angular-cli-ghpages
+
+2- (suponiendo que ya tenemos nuestra pagina en el repositorio remoto)
+ng build --prod (verificamos que no tenemos errores en la aplicacion)
+
+3- ng build --prod --base-href https://emiirg93.github.io/nombredelrepositorio/
+
+4- npx ngh --dir=dist/nombredelproyecto/
+
+listo!
